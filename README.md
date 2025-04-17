@@ -23,7 +23,7 @@
 - 💻 Languages: C++, JavaScript, Python  
 - 🌐 Frontend: React.js, HTML, CSS, Tailwind  
 - 🛢️ Backend: Node.js, Express.js
-- ⚙️ Tools: Git, GitHub, Postman, VS Code  
+- ⚙️ Tools: Git, GitHub, VS Code  
  
 ### 📝 Latest Projects
 
